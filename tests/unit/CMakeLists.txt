@@ -1,0 +1,7 @@
+find_package(GTest REQUIRED)
+include_directories(${GTEST_INCLUDE_DIRS})
+
+add_executable(unit_tests test_main.cpp)
+target_link_libraries(unit_tests ${GTEST_LIBRARIES} pthread)
+
+add_test(NAME unit_tests COMMAND unit_tests)

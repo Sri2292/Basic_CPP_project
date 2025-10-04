@@ -1,0 +1,11 @@
+/workspaces/Basic_CPP_project/build/CMakeFiles/Basic_CPP_Project.dir
+/workspaces/Basic_CPP_project/build/CMakeFiles/test.dir
+/workspaces/Basic_CPP_project/build/CMakeFiles/edit_cache.dir
+/workspaces/Basic_CPP_project/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Basic_CPP_project/build/tests/CMakeFiles/test.dir
+/workspaces/Basic_CPP_project/build/tests/CMakeFiles/edit_cache.dir
+/workspaces/Basic_CPP_project/build/tests/CMakeFiles/rebuild_cache.dir
+/workspaces/Basic_CPP_project/build/tests/unit/CMakeFiles/unit_tests.dir
+/workspaces/Basic_CPP_project/build/tests/unit/CMakeFiles/test.dir
+/workspaces/Basic_CPP_project/build/tests/unit/CMakeFiles/edit_cache.dir
+/workspaces/Basic_CPP_project/build/tests/unit/CMakeFiles/rebuild_cache.dir
